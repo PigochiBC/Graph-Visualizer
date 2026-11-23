@@ -1,0 +1,12 @@
+%%MatrixMarket matrix coordinate real symmetric
+% Synthetic 6x6 test graph with self-loops, weights, and an isolated vertex
+6 6 7
+
+3 1 0.5
+2 2 1.0
+% Mid-file comment
+6 4 -1.2
+2 1 3.0
+4 4 1.0
+6 1 2.4
+4 2 0.8
